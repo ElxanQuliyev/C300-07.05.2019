@@ -9,7 +9,7 @@ Display: inline-block
 
 <b>Display: flex (https://css-tricks.com/snippets/css/a-guide-to-flexbox/, 
 <br>
-https://flexboxfroggy.com/)<b>
+https://flexboxfroggy.com/)</b>
   
 Box-sizing: border-box
 
