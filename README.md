@@ -4,11 +4,16 @@ Homework folderindəki tapşırıqlara baxin.
 CSS-də aşağıdakı mövzuları oxuyun:
 
 Float
+
 Display: inline-block
+
 <b>Display: flex (https://css-tricks.com/snippets/css/a-guide-to-flexbox/, 
 <br>
 https://flexboxfroggy.com/)<b>
+  
 Box-sizing: border-box
+
 Overflow
+
 Xoş həftəsonu.
 
