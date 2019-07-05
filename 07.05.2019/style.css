@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.items{
+    background: goldenrod;
+    margin: 40px 0;
+
+}
+img{
+    width: 100%;
+    min-height: 380px
+}
+.item{
+    flex: 1;
+    padding: 15px;
+ 
+  
+}
+.orta{
+    display: flex;
+    width: 960px;
+    margin:auto
+}
