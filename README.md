@@ -1,6 +1,6 @@
 # C300-07.05.2019
 Homework folderindəki tapşırıqlara baxin.
-Əlavə olaraq kecen ders işlədiyimizi yuxarida 07.05.2019 folderinə atdim
+Əlavə olaraq kecen ders işlədiyimizi yuxarida <b>07.05.2019<b> folderinə atdim
 CSS-də aşağıdakı mövzuları oxuyun:
 
 Float
